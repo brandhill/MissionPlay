@@ -1,0 +1,76 @@
+<!--
+  Copyright 2013 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Mission Play</string>
+    
+    <string-array name="main_menu_array">
+        <item>進行中的任務</item>
+        <item>我建的任務</item>
+        <item>參加的任務</item>        
+        <item>登出</item>
+    </string-array>    
+    
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    
+    <string name="cancelled">Cancelled</string>
+    <string name="permission_not_granted">Unable to perform selected action because permissions were not granted.</string>
+    <string name="ok">OK</string>    
+    
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="action_add">Add</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+
+    <string name="message_facebook_action_cancel">已取消Facebook連接</string>
+    
+    <string name="missionplay_service_url"></string>
+    <!-- 
+    <string name="facebook_appid">417806175015619</string>
+     -->
+    <string name="google_map_api_key">xxxxx-yyyyy</string>
+    <string name="app_id">417806175015619</string>
+    
+    <string name="action_photo_camera">Take Photo</string>
+    <string name="action_photo_gallery">Choose Existing</string>
+    <string name="select_picture">Select Picture</string>
+    
+    
+    <string name="icon_fa_eye">&#xf06e;</string>
+    <string name="icon_fa_heart">&#xf004;</string>
+    <string name="icon_fa_check">&#xf00c;</string>
+    <string name="icon_fa_power_off">&#xf011;</string>
+    <string name="icon_fa_user">&#xf007;</string>
+    <string name="icon_fa_thumbs_down">&#xf165;</string>
+    <string name="icon_fa_flag">&#xf024;</string>
+    <string name="icon_circle_right">&#xf138;</string>
+    
+    
+    <string name="icon_fa_clock_o">&#xf017;</string>
+    <string name="icon_fa_desc">&#xf0e5;</string>
+    <string name="icon_fa_award">&#xf091;</string>
+    
+</resources>
